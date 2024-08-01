@@ -1,0 +1,3 @@
+TOKEN = '9a2c312fd07e431db585996b946d285f'
+HOST = '10.30.145.4'
+DB_PASS = 'sukablya'
